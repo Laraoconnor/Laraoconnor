@@ -6,4 +6,4 @@ SQL and Database Design ---> Database/ ERD design and relationships between enti
 
 Python Skills ---> Functions and File Processing, Dataframes (Pandas, NumPy), Lists and Dictionaries, Libraries and Packages, Data Manipulation and Merging
 
-I am constantly learning and currently developing knowledge in web and application design using CSS, HTML and Javascript to add to my portfolio.
+I am constantly learning and currently broadening my skillset to include web and application design using CSS, HTML and Javascript which I will add to my portfolio at a later date.
