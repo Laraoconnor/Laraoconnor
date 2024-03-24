@@ -6,4 +6,4 @@ SQL and Database Design ---> Database/ ERD design and relationships between enti
 
 Python Skills ---> Functions and File Processing, Dataframes (Pandas, NumPy), Lists and Dictionaries, Libraries and Packages, Data Manipulation and Merging
 
-
+Currently learning CSS, HTML and Javascript.
